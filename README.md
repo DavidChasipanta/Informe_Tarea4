@@ -3,11 +3,13 @@
 
 **Objtivo  General**
 
-
+* Conocer sobre los circuitos en serie-paralelo y los teoremas de cirucitos y conversiones mediante la utilización del libro de Floyd "Principios de Circuitos Eléctricos"
 
 **Ojetivo Especifico**
 
+* Resumir los capitulos siete y ocho del libro de Floyd "Principios de Circuitos Eléctricos", para que de esta forma se pueda comprender de una mejor manera los temas descritos.
 
+* Aplicar los conocimientos adquiridos de los temas de circuitos en serie y circuitos en paralelo para la resolcuión de los ejercicos propuestos por el libro de Floyd.
 # **2.MARCO TEÓRICO**
 
 # **3.Explicación y resolución de ejercicios**
