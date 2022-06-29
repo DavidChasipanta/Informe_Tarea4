@@ -23,7 +23,13 @@
 
 # **4.VIDEO**
 ![image](https://user-images.githubusercontent.com/105617383/176537502-00495438-a06e-4131-b777-192e2f6044b4.png)
+![image](https://user-images.githubusercontent.com/105617383/176538092-bfd49066-2494-4ca8-9de5-f4aba99e072c.png)
+![image](https://user-images.githubusercontent.com/105617383/176538463-cc7a54c3-bbb3-469d-9766-b8a8fcf2fc92.png)
 
+![image](https://user-images.githubusercontent.com/105617383/176538734-19b5e44b-f9c9-48d5-b503-dd5d4cf551a5.png)
+![image](https://user-images.githubusercontent.com/105617383/176538913-6ea9f34b-d4f1-47b9-b8dd-37c1f0288f06.png)
+
+![image](https://user-images.githubusercontent.com/105617383/176539627-2aa351bb-39e9-4461-a602-afa96ef065d4.png)
 
 
 # **5.CONCLUCIONES**
