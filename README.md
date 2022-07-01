@@ -440,11 +440,17 @@ VAG - VCG = 12.95 - 5.60 = 7.35V
 
 ![image](https://user-images.githubusercontent.com/105617383/176795853-79eece34-d476-4d3e-a80d-1b68634ef210.png)
 
+![image](https://user-images.githubusercontent.com/105617383/176882545-2483f994-5865-4f04-9eeb-4efa4277cf9f.png)
+
 **4. Trace los circuitos equivalentes de fuentes de voltaje y corriente para la batería tipo D del problema 3.**
+
+![image](https://user-images.githubusercontent.com/105617383/176882599-b842ecef-f7c4-4c31-a2a7-7447ed67b5ed.png)
 
 **6. Convierta las fuentes de corriente prácticas de la figura 8-68 en fuentes de voltaje equivalentes.**
 
 ![image](https://user-images.githubusercontent.com/105617383/176795949-93312d87-0bc7-4b23-9156-7c3b6a12e445.png)
+
+![image](https://user-images.githubusercontent.com/105617383/176882668-1679178a-3292-4a0b-95b8-605e3ced88f3.png)
 
 **SECCIÓN 8–4 El teorema de superposición**
 
@@ -452,12 +458,43 @@ VAG - VCG = 12.95 - 5.60 = 7.35V
 
 ![image](https://user-images.githubusercontent.com/105617383/176796012-bb78f216-f36f-4262-9783-0e713b9ed3d2.png)
 
+a)
+
+Re = (2.2)(1.0)/(2.2+1.0) = 0.7 + 1.0 = 1.7
+
+Re = (1.7)(2.2)/(1.7+2.2) = 1.0 + 1.0 = 2.0
+
+I = V/R = 2/2 = 1 A
+
+b)
+
+Re = (2.2)(1.0)/(2.2+1.0) = 0.7 + 1.0 = 1.7
+
+Re = (1.7)(2.2)/(1.7+2.2) = 1.0 + 1.0 = 2.0
+
+I = V/R = 2/2 = 2.2 A
+
 **10. Con el teorema de superposición, determine la corriente de carga en cada uno de los circuitos mostrados en la figura 8-71**
 
 ![image](https://user-images.githubusercontent.com/105617383/176796059-f5df9924-b493-44a4-8fc5-e04c2e04fddf.png)
 
 **12. Repita el problema 11 si R2 es de 10 kÆ**
 
+Se coloca un cortocircuito entre A y B, teniendo como Rt:
+
+Req1 = 2.2 kΩ + 1 kΩ = 3.1 kΩ
+
+Rt = (3.2 kΩ * 2.2 kΩ / 3.2 kΩ + 2.2 kΩ) = 1.3 kΩ
+
+It = 0.1 A
+
+Ix = (1.3 kΩ / 3.1 kΩ) * 0.1 A = 0.0419 A
+
+IN= 0.1 A – 0.0419 A = 0.0581 A = 58.1 mA
+
+Se reemplaza la fuente de voltaje con un cortocircuito:
+
+RN = (3.2 kΩ * 2.2 kΩ / 3.2 kΩ + 2.2 kΩ) = 1.3 kΩ
 **14. Los interruptores mostrados en la figura 8-74 se cierran en secuencia, SW1 primero. Determine la corriente a través de R4 después del cierre de cada interruptor.**
 
 ![image](https://user-images.githubusercontent.com/105617383/176796123-9ad68050-adfd-40c5-bafa-2707e73323e9.png)
