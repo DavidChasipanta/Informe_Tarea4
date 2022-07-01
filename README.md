@@ -10,7 +10,10 @@
 * Resumir los capitulos siete y ocho del libro de Floyd "Principios de Circuitos Eléctricos", para que de esta forma se pueda comprender de una mejor manera los temas descritos.
 
 * Aplicar los conocimientos adquiridos de los temas de circuitos en serie y circuitos en paralelo para la resolcuión de los ejercicos propuestos por el libro de Floyd.
+
 # **2.MARCO TEÓRICO**
+![image](https://user-images.githubusercontent.com/105617383/176769275-04a4d929-a809-497a-a75d-e4e2eeb55695.png)
+![image](https://user-images.githubusercontent.com/105617383/176785410-38248d1f-3f04-412e-ba1d-d22dcb17b6cd.png)
 
 ![image](https://user-images.githubusercontent.com/105617383/176095505-2e73f5f0-5ccc-4de0-9722-47426764b830.png)
 ![image](https://user-images.githubusercontent.com/105617383/176095554-7f03a390-cb80-4195-a3bd-620e13a3f35f.png)
@@ -20,25 +23,278 @@
 
 # **3.Explicación y resolución de ejercicios**
 
+**PROBLEMAS**
+**Capítulo 7**
+
+**2. Visualice y trace los siguientes circuitos en serie-paralelo:**
+
+**a) Una combinación en paralelo de tres ramas, cada rama con dos resistores en serie**
+
+![image](https://user-images.githubusercontent.com/105617383/176787941-48569f3c-d613-4ddc-be44-7362fb864a75.png)
+
+**b) Una combinación serie de tres circuitos en paralelo, cada circuito con dos resistores**
+
+![image](https://user-images.githubusercontent.com/105617383/176789063-33589dd9-b514-4eac-8b6b-1e6299e58520.png)
+
+**4. En cada uno de los circuitos de la figura 7-63, identifique las relaciones en serie-paralelo de los resistores vistas desde la fuente**
+
+![image](https://user-images.githubusercontent.com/105617383/176789229-36fd1fc2-128f-42c4-af86-eed1b7448b03.png)
+
+**a)**    
+
+ R1+ R2 +R3||R4  
+ 
+ **b)** 
+ 
+ || R1 + R4 ||+ || R3+R2|| 
+ 
+  **c)**
+  
+ R1 +R2+R3||R4+R8||R5+R6+R7
+
+**6. Desarrolle un diagrama esquemático de la tarjeta de circuito impreso de doble cara mostrada en la figura 7-65, y marque los valores de resistor.**
+
+![image](https://user-images.githubusercontent.com/105617383/176789280-485f267c-9acb-497a-aa84-41b29f9a8fae.png)
+
+
+
+
+**8. Un cierto circuito se compone de dos resistores en paralelo. La resistencia total es de 667 Ω. Uno de los resistores es de 1.0 kΩ. ¿Cuál es el otro resistor?**
+
+RT 667 ohmios
+
+1RESITOR 1.kohm
+
+667 ohm = 1/((1/1000ohm +1/R2))
+
+R2(99.99OHM)=0.1499OHM
+
+R2= 0.1499/99.99
+
+R2= 1.49 mOHM
+
+**10. . Repita el problema 9 para cada uno de los circuitos mostrados en la figura 7-63**
+
+**-El problema nueve dice que se debe determinar la resistencia total para cada uno de los circuitos, en este caso se calculará de la figura 7-63.**
+
+![image](https://user-images.githubusercontent.com/105617383/176791317-3cf7f27c-8d2b-407d-abd1-83e3a85a07f0.png)
+
+* a) En el circuito A, las resistencias que estan en serie son la R1 y la R2. Por lo tanto se sumarían algebraicamente dando como resultado una resistencia equivalente de 2kΩ. Las resistencias R3 y R4, se encuentran en paralelo. Mediante la formula estudiada de la sumatoria de resistencias en paralelo, nos da como resultado una resistencia equivalente de 1.32 kΩ. La resistencia total seria la sumatoria algraica de estos dos valores dando como resultado que la resistencia total de todo el circuito es de RT= 3.32KΩ.
+
+* b) El circuito B presenta conexiones en paralelo de todas sus resistencias. Sería la sumatoria en paralelo de todas las resistencias conectadas en el circuito mediante la formula estudiada, dando como resultado el valor de RT= 400KΩ.
+
+* c) En el circuito C, las resistencias que se encuentran en serie son R1 y R2, sumando algebraicamente da como resultado una resistencia equivalente de 2kΩ. Mientras que R5, R3 y R4 se encuentran en paralelo, es por esto que se tiene que sumar con la formula estudiada, dando como resultado una resistencia equivalente de 1.62 KΩ. Finalmente la resistencia R6 y R7 estan en paralelo, y a su vez estan concectadas en serie con R8, por lo tanto su resistencia equivalente es de 5.2 KΩ. La resistencia total sería la suma de todas las resistencias, dando como resultado un valor de RT: 8.82KΩ.
+
+**12. Determine la corriente a través de cada resistor en cada circuito de la figura 7-63; luego calcule cada caída de voltaje.**
+
+![image](https://user-images.githubusercontent.com/105617383/176791451-a57963c6-bc2d-472b-b6d2-3d03b3a9580e.png)
+
+CIRCUITO A
+
+A 12
+
+CIRCUITO B
+
+B 12
+
+CIRCUITO C
+
+C1 12 C2 12
+
+**14. Determine la resistencia entre A y B en la figura 7-67 sin la fuente.**
+
+![image](https://user-images.githubusercontent.com/105617383/176793177-b5255487-2f35-484d-a3b1-1937729d97cf.png)
+
+-La resistencia entre A y B seria la sumatoria de las resistencias comprendidas en paralelo, la respuesta es: RT: 4.7KΩ+5.6KΩ= 10.3KΩ.
+
+**16. Determine el voltaje en cada nodo con respecto a tierra en la figura 7-68**
+
+![image](https://user-images.githubusercontent.com/105617383/176793266-9d8ba76c-ae80-452b-9e91-8aff468ac746.png)
+
+Respuesta:
+
+16
+
+**18. Determine la resistencia del circuito mostrado en la figura 7-67 como se ve desde la fuente de voltaje.**
+
+![image](https://user-images.githubusercontent.com/105617383/176793355-0679e0ce-6111-4f39-adeb-ead6c6a16adc.png)
+
+Las resistencias comprendidas entre A y B, suman un total de 10.3 kΩ. Mientras que la suma resistencias comprendidas desde la fuente hasta el punto C es de 2kΩ. Dados estos resultados, las resistencias equivalentes mostradas se encuentran en paralelo con la suma de las resistencias 10 y 1.8 kΩ, dando como resultado una resistencia equivalente de 11.8kΩ. Entonces la respuesta final es la suma en paralelo de esas tres resistencias equivalentes R= 1.46KΩ.
+
+** 20.Determine el voltaje, VAB, en la figura 7-69. **
+
+![image](https://user-images.githubusercontent.com/105617383/176793403-5fee651c-0eec-4e41-b8f2-422c6535ee43.png)
+
+
+RESOLVIENDO:
+
+20 1 20 2
+
+22. En la figura 7-71, determine la resistencia entre el nodo A y cada uno de los demás nodos (RAB, RAC,RAD, RAE, RAF, y RAG).
+
+![image](https://user-images.githubusercontent.com/105617383/176793630-e2431629-f244-4e5e-9aa6-c13b4793b862.png)
+
+-Para determinar la resistencia que se encuentra entre el nodod A y C , se debe sacar las resistencias equivalentes. La resistencia ente A y C es la suma algebraica de R1 y R2, dando una resistencia de RE=3.2KΩ y posteriormente se debe sumar paralelamente a la suma de R8 y R7, dando como resultado una resistencia de RE=8KΩ, por lo tanto la resistencia total entre A y C es de RT= 2.28KΩ.
+
+-La resistencia que existe entre A y E, se calcula sumando los paralelos y los resistores conectados en serie. Se sumaria la resistencia total determinada en el punto anterior mas la resistencia total entre C y E la cual es RT= 2.28KΩ, la suma nos da como resultado RT= 1.14kΩ
+
+-La resistencia entre A y D es la suma del circuito cerrado mas la resistencia R3, dando como resultado una resistencia de RT=3.28KΩ.
+
+-La resistencia entre A y F es la suma del circuito cerrado mas la resistencia R6, dando como resultado una resistencia de RT=6.98KΩ.
+
+**24.Determine el valor de cada resistor mostrado en la figura 7-73.**
+
+![image](https://user-images.githubusercontent.com/105617383/176793659-ab7b0a67-c616-4ebf-b119-430fb840cd6c.png)
+
+**SECCIÓN 7–3 Divisores de voltaje con cargas resistivas**
+
+26. La salida de una batería de 12 V se divide para obtener dos voltajes de salida. Se utilizan tres resistores de 3.3 kÆ para proporcionar dos tomas. Determine los voltajes de salida. Si se conecta una carga de 10 kÆ a la más alta de las salidas, ¿cuál será su valor con carga?
+
+28. En la figura 7-74, determine el voltaje de salida sin carga entre las terminales de salida. Con una carga de 100 kÆ conectada de A a B, ¿cuál es el voltaje de salida?
+
+![image](https://user-images.githubusercontent.com/105617383/176794077-e70d8848-f1b8-4a48-ba8d-567067dc9aa7.png)
+
+30. En la figura 7-74, determine la corriente continua extraída de la fuente sin carga entre las terminales de salida. Con una carga de 33 kÆ, ¿cuál es la corriente extraída?
+
+![image](https://user-images.githubusercontent.com/105617383/176794077-e70d8848-f1b8-4a48-ba8d-567067dc9aa7.png)
+
+32. El divisor de voltaje de la figura 7-75 tiene una carga controlada por interruptor. Determine el voltaje en cada toma (V1, V2 y V3) para cada posición del interruptor.
+
+![image](https://user-images.githubusercontent.com/105617383/176794214-bf35bb08-ca95-40f7-9d3d-e5045b73ad4f.png)
+
+34. Diseñe un divisor de voltaje que produzca una salida de 6 V sin carga y un mínimo de 5.5 V entre los extremos de una carga de 1.0 kÆ. El voltaje de fuente es de 24 V y la corriente extraída sin carga no debe exceder de 100 mA.
+
+**SECCIÓN 7–4 Efecto de carga de un voltímetro**
+
+36. Determine la resistencia interna de un voltímetro de 20,000 Æ/V en cada uno de los siguientes ajustes de intervalo.
+
+(a) 0.5 V   →    (b) 1 V   →    (c) 5 V   →   (d) 50 V   →   (e) 100 V   →   (f) 1000 V
+
+38. Repita el problema 37 si se utiliza el voltímetro para medir voltaje entre los extremos de R4 en el circuito de la figura 7-62(b).
+
+![image](https://user-images.githubusercontent.com/105617383/176794828-18e115c4-1803-4425-8cee-a9e9c7611eb6.png)
+
+**SECCIÓN 7–5 Redes en escalera**
+
+40. Determine la resistencia total y el voltaje en los nodos A, B y C de la red en escalera mostrada en la figura 7-78.
+
+![image](https://user-images.githubusercontent.com/105617383/176795211-fd651511-0fd0-492a-a90d-d567eeb71e6c.png)
+
+42. En la figura 7-79, ¿cuál es el voltaje entre los extremos de cada resistor con 10 V entre A y B?
+
+![image](https://user-images.githubusercontent.com/105617383/176795263-dac5c82d-323c-4c93-b822-96323fc6e499.png)
+
+44. Determine VSALIDA para la red R/2R en escalera mostrada en la figura 7-81 para las siguientes condiciones:
+
+![image](https://user-images.githubusercontent.com/105617383/176795346-3a42a0b7-0b04-4bc6-9653-837d51bd741b.png)
+
+(a) Interruptor SW2 conectado a + 12 V y los demás conectados a tierra
+(b) Interruptor SW1 conectado a + 12 V y los demás conectados a tierra
+
+SECCIÓN 7–6 El puente Wheatstone
+
+46. Se conecta un resistor de valor desconocido a un circuito puente Wheatstone. Los parámetros del puente en equilibrio se establecen como sigue: RV = 18 kÆ y R2/R4 = 0.02. ¿Cuál es RX?
+
+48. Determine el voltaje de salida para el puente desequilibrado mostrado en la figura 7-83 a una temperatura de 60ºC. La característica de resistencia según la temperatura del termistor se muestra en la figura 7-60.
+
+SECCIÓN 7–7 Localización de fallas
+
+50. ¿Son correctas las lecturas del medidor mostrado en la figura 7-85?
+
+![image](https://user-images.githubusercontent.com/105617383/176795648-03a86a05-11e0-4182-bda6-c3f093cea165.png)
+
+52. Vea los medidores ilustrados en la figura 7-87 y determine si hay una falla en el circuito. Si la hay, identifíquela.
+
+![image](https://user-images.githubusercontent.com/105617383/176795691-096771e3-161d-4ea1-bdd1-a7273da617d8.png)
+
+54. Si en la figura 7-89 R2 se abre, ¿qué voltajes se leerán en los puntos A, B y C?
+
+![image](https://user-images.githubusercontent.com/105617383/176795738-f3348e0d-96fd-4eff-aec3-cca3a0d556d5.png)
+
+**CAPITULO 8**
+
+SECCIÓN 8–3 Conversiones de fuente
+
+2. Convierta las fuentes de voltaje prácticas de la figura 8-67 en fuentes de corriente equivalentes. 
+
+![image](https://user-images.githubusercontent.com/105617383/176795853-79eece34-d476-4d3e-a80d-1b68634ef210.png)
+
+4. Trace los circuitos equivalentes de fuentes de voltaje y corriente para la batería tipo D del problema 3.
+
+6. Convierta las fuentes de corriente prácticas de la figura 8-68 en fuentes de voltaje equivalentes.
+
+![image](https://user-images.githubusercontent.com/105617383/176795949-93312d87-0bc7-4b23-9156-7c3b6a12e445.png)
+
+SECCIÓN 8–4 El teorema de superposición 
+
+8. Use el teorema de superposición para determinar la corriente a través, y el voltaje entre, los extremos de la rama R2 de la figura 8-69.
+
+![image](https://user-images.githubusercontent.com/105617383/176796012-bb78f216-f36f-4262-9783-0e713b9ed3d2.png)
+
+10. Con el teorema de superposición, determine la corriente de carga en cada uno de los circuitos mostrados en la figura 8-71
+
+![image](https://user-images.githubusercontent.com/105617383/176796059-f5df9924-b493-44a4-8fc5-e04c2e04fddf.png)
+
+12. Repita el problema 11 si R2 es de 10 kÆ
+
+14. Los interruptores mostrados en la figura 8-74 se cierran en secuencia, SW1 primero. Determine la corriente a través de R4 después del cierre de cada interruptor.
+
+![image](https://user-images.githubusercontent.com/105617383/176796123-9ad68050-adfd-40c5-bafa-2707e73323e9.png)
+
+SECCIÓN 8–5 Teorema de Thevenin
+
+16. Para cada uno de los circuitos de la figura 8-76, determine el equivalente de Thevenin como se ve desde las terminales A y B.
+
+![image](https://user-images.githubusercontent.com/105617383/176796183-27a55d2d-3c30-425a-9d9a-e6ebca1d31bc.png)
+
+** 18.Con el teorema de Thevenin, determine el voltaje entre los extremos de R4 en la figura 8-78
+
+![image](https://user-images.githubusercontent.com/105617383/176796231-2909f2ad-e5b1-40af-aa84-002437b8d1f7.png)
+
+20. Determine la corriente que se dirige al punto A cuando R8 es de 1.0 kÆ, 5 kÆ, y 10 kÆ en la figura 8-80. 
+
+![image](https://user-images.githubusercontent.com/105617383/176796397-7db0228a-e55a-428c-9c42-3c188e2724d6.png)
+
+22. Determine el equivalente de Thevenin del circuito mostrado en la figura 8-82 visto desde las terminales A y B.
+
+![image](https://user-images.githubusercontent.com/105617383/176796460-94ed7c86-c1c4-4eef-be70-d1ddeb668a6b.png)
+
+SECCIÓN 8–6 Teorema de Norton
+
+24. Con el teorema de Norton, determine la corriente que circula a través del resistor de carga RL en la figura 8-77
+
+![image](https://user-images.githubusercontent.com/105617383/176796636-dec70788-8d90-4cc6-bf42-bdbf6f05eac0.png)
+
+26. Con el teorema de Norton, determine la corriente que circula a través de R1 en la figura 8-80 cuando R8 = 8 kÆ.
+
+28. En la figura 8-83, reduzca el circuito entre las terminales A y B a su equivalente Norton.
+
+![image](https://user-images.githubusercontent.com/105617383/176796536-5d63fa37-d673-4bff-8c36-d1ca58f4151f.png)
+
+SECCIÓN 8–7 Teorema de transferencia de potencia máxima
+
+30. En cada circuito mostrado en la figura 8-85, se tiene que transferir potencia máxima a la carga RL. Determine el valor apropiado de RL en cada caso.
+
+![image](https://user-images.githubusercontent.com/105617383/176796578-bd93c510-e1e8-464d-aadc-faa37039bd2c.png)
+
+32. ¿Cuánta potencia se suministra a la carga cuando RL es un 10% más alta que su valor para transferencia de potencia máxima en el circuito de la figura 8-86?
+
+SECCIÓN 8–8 Conversiones delta a Y ( a Y) y Y a 
+
+34. En la figura 8-88, convierta cada red delta en una red Y.
+
+![image](https://user-images.githubusercontent.com/105617383/176796690-1853b63b-0b13-4e5e-8f77-2ba05672805d.png)
+
+ 36. Determine todas las corrientes que circulan en el circuito de la figura 8-90.
+
+![image](https://user-images.githubusercontent.com/105617383/176796716-20a08f8e-c725-4e95-85f1-4139d99db861.png)
+
+
+
+
 
 # **4.VIDEO**
-![image](https://user-images.githubusercontent.com/105617383/176537502-00495438-a06e-4131-b777-192e2f6044b4.png)
-![image](https://user-images.githubusercontent.com/105617383/176538092-bfd49066-2494-4ca8-9de5-f4aba99e072c.png)
-![image](https://user-images.githubusercontent.com/105617383/176538463-cc7a54c3-bbb3-469d-9766-b8a8fcf2fc92.png)
 
-![image](https://user-images.githubusercontent.com/105617383/176538734-19b5e44b-f9c9-48d5-b503-dd5d4cf551a5.png)
-![image](https://user-images.githubusercontent.com/105617383/176538913-6ea9f34b-d4f1-47b9-b8dd-37c1f0288f06.png)
-
-![image](https://user-images.githubusercontent.com/105617383/176539627-2aa351bb-39e9-4461-a602-afa96ef065d4.png)
-
-![image](https://user-images.githubusercontent.com/105617383/176539852-dd8cbe81-c762-449c-a7b9-afb2522a115f.png)
-
-![image](https://user-images.githubusercontent.com/105617383/176540420-4421521d-cb6d-4b09-8857-5ae961d56984.png)
-![image](https://user-images.githubusercontent.com/105617383/176540822-42152865-1328-4ca1-af73-4ffad6014632.png)
-
-![image](https://user-images.githubusercontent.com/105617383/176541201-5b5a177b-ebbf-4e86-873f-367b2823a148.png)
-
-![image](https://user-images.githubusercontent.com/105617383/176541963-bdf57dcf-d6d8-48e8-afaa-213ea5b73c86.png)
 
 # **5.CONCLUCIONES**
 
