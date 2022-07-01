@@ -611,6 +611,7 @@ RN = (3.2 kΩ * 2.2 kΩ / 3.2 kΩ + 2.2 kΩ) = 1.3 kΩ
 
 # **4.VIDEO**
 
+https://youtu.be/mlet1PTg55U
 
 # **5.CONCLUCIONES**
 
