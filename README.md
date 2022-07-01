@@ -13,7 +13,7 @@
 
 # **2.MARCO TEÓRICO**
 ![image](https://user-images.githubusercontent.com/105617383/176769275-04a4d929-a809-497a-a75d-e4e2eeb55695.png)
-![image](https://user-images.githubusercontent.com/105617383/176785410-38248d1f-3f04-412e-ba1d-d22dcb17b6cd.png)![a6acb712-c0cf-4b1c-b7a9-430649c6d9a0](https://user-images.githubusercontent.com/105617383/176810419-c1da3dd9-29aa-4ac9-b83e-cf42349d5d28.jpg)
+![image](https://user-images.githubusercontent.com/105617383/176785410-38248d1f-3f04-412e-ba1d-d22dcb17b6cd.png)
 
 
 ![image](https://user-images.githubusercontent.com/105617383/176095505-2e73f5f0-5ccc-4de0-9722-47426764b830.png)
@@ -25,6 +25,7 @@
 # **3.Explicación y resolución de ejercicios**
 
 **PROBLEMAS**
+
 **Capítulo 7**
 
 **2. Visualice y trace los siguientes circuitos en serie-paralelo:**
@@ -360,10 +361,15 @@ VAG - VCG = 12.95 - 5.60 = 7.35V
 ![image](https://user-images.githubusercontent.com/105617383/176796123-9ad68050-adfd-40c5-bafa-2707e73323e9.png)
 
 ![image](https://user-images.githubusercontent.com/105617383/176810221-0590a22c-8042-4cc7-818b-511b516a28aa.png)
+
 ![image](https://user-images.githubusercontent.com/105617383/176810234-7a96f7f8-e0dd-4eb8-a343-5849cba218ff.png)
+
 ![image](https://user-images.githubusercontent.com/105617383/176810243-e74e6ce6-4620-4dca-9ce6-4e8561edd664.png)
+
 ![image](https://user-images.githubusercontent.com/105617383/176810254-e7e35cf7-1064-41e1-9978-98abf4005b9c.png)
+
 ![image](https://user-images.githubusercontent.com/105617383/176810271-65cb7328-9b28-4a87-b05b-955b04f8d32e.png)
+
 ![image](https://user-images.githubusercontent.com/105617383/176810285-47758c49-d91c-4ebe-973c-f7609a3edee2.png)
 
 **SECCIÓN 8–5 Teorema de Thevenin**
@@ -379,19 +385,29 @@ VAG - VCG = 12.95 - 5.60 = 7.35V
 ![image](https://user-images.githubusercontent.com/105617383/176796231-2909f2ad-e5b1-40af-aa84-002437b8d1f7.png)
 
 ![image](https://user-images.githubusercontent.com/105617383/176810125-ae3bf976-4795-4a6a-8622-169c67b30f8c.png)
+
 ![image](https://user-images.githubusercontent.com/105617383/176810135-71d39503-fa89-4e7c-80aa-4cce13e5911f.png)
+
 ![image](https://user-images.githubusercontent.com/105617383/176810144-8b555d35-63f3-4597-b4f8-c96cc9be223b.png)
+
 ![image](https://user-images.githubusercontent.com/105617383/176810150-0e635a79-813a-44cc-8b0d-48a878d9e9e9.png)
+
 ![image](https://user-images.githubusercontent.com/105617383/176810163-1147dae6-1bf7-45d9-81f0-14938bf823a7.png)
+
 ![image](https://user-images.githubusercontent.com/105617383/176810177-44e72088-3b8e-4950-a0ca-c1d0865d35d9.png)
 
 **20. Determine la corriente que se dirige al punto A cuando R8 es de 1.0 kÆ, 5 kÆ, y 10 kÆ en la figura 8-80.** 
 
 ![image](https://user-images.githubusercontent.com/105617383/176796397-7db0228a-e55a-428c-9c42-3c188e2724d6.png)
+
 ![image](https://user-images.githubusercontent.com/105617383/176810044-bb466895-38c4-439d-853e-fb1091cd7243.png)
+
 ![image](https://user-images.githubusercontent.com/105617383/176810058-78680a2b-2768-439c-a4c4-237cd3394e0e.png)
+
 ![image](https://user-images.githubusercontent.com/105617383/176810074-11b48f52-ea6e-4d69-86c9-814d8f1e13b0.png)
+
 ![image](https://user-images.githubusercontent.com/105617383/176810089-5bbd8232-6006-4939-a16e-3cab5ba3efc1.png)
+
 ![image](https://user-images.githubusercontent.com/105617383/176810101-b137cee5-6743-4021-9c91-3dd07bd93dc7.png)
 
 **22. Determine el equivalente de Thevenin del circuito mostrado en la figura 8-82 visto desde las terminales A y B.**
@@ -407,8 +423,11 @@ VAG - VCG = 12.95 - 5.60 = 7.35V
 ![image](https://user-images.githubusercontent.com/105617383/176796636-dec70788-8d90-4cc6-bf42-bdbf6f05eac0.png)
 
 ![image](https://user-images.githubusercontent.com/105617383/176809963-bb8e9870-a324-4f12-b528-aee910aded65.png)
+
 ![image](https://user-images.githubusercontent.com/105617383/176809977-37481eaf-8130-4836-97ef-e60326dba6ec.png)
+
 ![image](https://user-images.githubusercontent.com/105617383/176809988-0d32fe38-5a2f-4da2-8d37-7f47b5ff71e1.png)
+
 ![image](https://user-images.githubusercontent.com/105617383/176809997-d8414077-0105-4ca4-9633-bda2d6e40336.png)
 
 **26. Con el teorema de Norton, determine la corriente que circula a través de R1 en la figura 8-80 cuando R8 = 8 kÆ.**
@@ -448,6 +467,7 @@ VAG - VCG = 12.95 - 5.60 = 7.35V
 ![image](https://user-images.githubusercontent.com/105617383/176796716-20a08f8e-c725-4e95-85f1-4139d99db861.png)
 
 ![image](https://user-images.githubusercontent.com/105617383/176809581-4492ef6f-9f51-4a9c-9abf-a254e0162b77.png)
+
 ![image](https://user-images.githubusercontent.com/105617383/176809595-28d22cf2-0a95-4103-85f3-fca8b3a1e73f.png)
 
 # **4.VIDEO**
