@@ -529,7 +529,7 @@ RN = (3.2 kΩ * 2.2 kΩ / 3.2 kΩ + 2.2 kΩ) = 1.3 kΩ
 
 ![image](https://user-images.githubusercontent.com/105617383/176810202-b2891f81-08e6-4107-bafa-5dc600149a99.png)
 
-**18.Con el teorema de Thevenin, determine el voltaje entre los extremos de R4 en la figura 8-78
+**18.Con el teorema de Thevenin, determine el voltaje entre los extremos de R4 en la figura 8-78**
 
 ![image](https://user-images.githubusercontent.com/105617383/176796231-2909f2ad-e5b1-40af-aa84-002437b8d1f7.png)
 
@@ -603,7 +603,7 @@ RN = (3.2 kΩ * 2.2 kΩ / 3.2 kΩ + 2.2 kΩ) = 1.3 kΩ
 
 ![image](https://user-images.githubusercontent.com/105617383/176809659-6b195e8a-8689-4926-8580-d08897a4d6a4.png)
 
-**SECCIÓN 8–8 Conversiones delta a Y (Delta a Y) y Y a Delta
+**SECCIÓN 8–8 Conversiones delta a Y (Delta a Y) y Y a Delta**
 
 **34. En la figura 8-88, convierta cada red delta en una red Y.**
 
