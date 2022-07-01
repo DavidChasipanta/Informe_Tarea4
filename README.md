@@ -302,11 +302,11 @@ V3= (8.72 / 38.7) * 81 = 27.0V
 
 ![image](https://user-images.githubusercontent.com/105617383/176794828-18e115c4-1803-4425-8cee-a9e9c7611eb6.png)
 
-**a)¿Qué intervalo se deberá utilizar? **
+**a)¿Qué intervalo se deberá utilizar?**
 
 Las puntas del multimetro deben ir colocadas en cada pata de la resistencia, en serie, de modo que de esta manera el voltaje será medido para esa resistencia.
 
-**b) ¿En cuánto se reduce el voltaje medido por el medidor con respecto al voltaje real? **
+**b) ¿En cuánto se reduce el voltaje medido por el medidor con respecto al voltaje real?**
 
 El voltaje medido se reduce en un porcentaje minimo debido a la tolerancia de la resistencia y tambien puede darse por un defecto en la fuente de voltaje utilizada.
 
@@ -344,7 +344,7 @@ Nodo C
 
 VC= I6R6=0,95Ma1KΩ=0,95V
 
-42. En la figura 7-79, ¿cuál es el voltaje entre los extremos de cada resistor con 10 V entre A y B?
+**42. En la figura 7-79, ¿cuál es el voltaje entre los extremos de cada resistor con 10 V entre A y B?**
 
 ![image](https://user-images.githubusercontent.com/105617383/176795263-dac5c82d-323c-4c93-b822-96323fc6e499.png)
 
@@ -504,6 +504,7 @@ IN= 0.1 A – 0.0419 A = 0.0581 A = 58.1 mA
 Se reemplaza la fuente de voltaje con un cortocircuito:
 
 RN = (3.2 kΩ * 2.2 kΩ / 3.2 kΩ + 2.2 kΩ) = 1.3 kΩ
+
 **14. Los interruptores mostrados en la figura 8-74 se cierran en secuencia, SW1 primero. Determine la corriente a través de R4 después del cierre de cada interruptor.**
 
 ![image](https://user-images.githubusercontent.com/105617383/176796123-9ad68050-adfd-40c5-bafa-2707e73323e9.png)
@@ -602,15 +603,15 @@ RN = (3.2 kΩ * 2.2 kΩ / 3.2 kΩ + 2.2 kΩ) = 1.3 kΩ
 
 ![image](https://user-images.githubusercontent.com/105617383/176809659-6b195e8a-8689-4926-8580-d08897a4d6a4.png)
 
-**SECCIÓN 8–8 Conversiones delta a Y ( a Y) y Y a 
+**SECCIÓN 8–8 Conversiones delta a Y (Delta a Y) y Y a Delta
 
-34. En la figura 8-88, convierta cada red delta en una red Y.
+**34. En la figura 8-88, convierta cada red delta en una red Y.**
 
 ![image](https://user-images.githubusercontent.com/105617383/176796690-1853b63b-0b13-4e5e-8f77-2ba05672805d.png)
 
 ![image](https://user-images.githubusercontent.com/105617383/176809632-baa89f12-36d6-48bb-85dd-93b6bc41640a.png)
 
- 36. Determine todas las corrientes que circulan en el circuito de la figura 8-90.
+ **36. Determine todas las corrientes que circulan en el circuito de la figura 8-90.**
 
 ![image](https://user-images.githubusercontent.com/105617383/176796716-20a08f8e-c725-4e95-85f1-4139d99db861.png)
 
