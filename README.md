@@ -58,8 +58,7 @@
 
 ![image](https://user-images.githubusercontent.com/105617383/176789280-485f267c-9acb-497a-aa84-41b29f9a8fae.png)
 
-
-
+![image](https://user-images.githubusercontent.com/105617383/176816811-ddbcbd8b-f949-4099-8924-d7a83602a534.png)
 
 **8. Un cierto circuito se compone de dos resistores en paralelo. La resistencia total es de 667 Ω. Uno de los resistores es de 1.0 kΩ. ¿Cuál es el otro resistor?**
 
@@ -93,7 +92,8 @@ R2= 1.49 mOHM
 
 CIRCUITO A
 
-A 12
+![image](https://user-images.githubusercontent.com/105617383/176822965-e430a59c-5d3e-4845-8af9-d4a89a36618b.png)
+
 
 CIRCUITO B
 
