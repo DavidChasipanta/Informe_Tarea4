@@ -14,8 +14,9 @@
 # **2.MARCO TEÓRICO**
 ![image](https://user-images.githubusercontent.com/105617383/176769275-04a4d929-a809-497a-a75d-e4e2eeb55695.png)
 ![image](https://user-images.githubusercontent.com/105617383/176785410-38248d1f-3f04-412e-ba1d-d22dcb17b6cd.png)
-
-
+![image](https://user-images.githubusercontent.com/105617383/176891940-86542170-4695-461d-b4c4-b464d226687b.png)
+![image](https://user-images.githubusercontent.com/105617383/176891992-525e0bf4-a73d-4905-b6fa-91542b47ce8a.png)
+![image](https://user-images.githubusercontent.com/105617383/176892101-6b586d7b-4691-4551-88db-ff24b6598a32.png)
 ![image](https://user-images.githubusercontent.com/105617383/176095505-2e73f5f0-5ccc-4de0-9722-47426764b830.png)
 ![image](https://user-images.githubusercontent.com/105617383/176095554-7f03a390-cb80-4195-a3bd-620e13a3f35f.png)
 ![image](https://user-images.githubusercontent.com/105617383/176095573-808782a1-c1a5-4b36-831a-d0c0fe36d4fb.png)
@@ -155,7 +156,7 @@ V3= 7.41 V
 
 Las resistencias comprendidas entre A y B, suman un total de 10.3 kΩ. Mientras que la suma resistencias comprendidas desde la fuente hasta el punto C es de 2kΩ. Dados estos resultados, las resistencias equivalentes mostradas se encuentran en paralelo con la suma de las resistencias 10 y 1.8 kΩ, dando como resultado una resistencia equivalente de 11.8kΩ. Entonces la respuesta final es la suma en paralelo de esas tres resistencias equivalentes R= 1.46KΩ.
 
-** 20.Determine el voltaje, VAB, en la figura 7-69. **
+**20.Determine el voltaje, VAB, en la figura 7-69.**
 
 ![image](https://user-images.githubusercontent.com/105617383/176793403-5fee651c-0eec-4e41-b8f2-422c6535ee43.png)
 
@@ -177,7 +178,7 @@ Re (AB)= 41.8v+7.5 v+50.7 V
 
 Re (AB)=100V
 
-22. En la figura 7-71, determine la resistencia entre el nodo A y cada uno de los demás nodos (RAB, RAC,RAD, RAE, RAF, y RAG).
+**22. En la figura 7-71, determine la resistencia entre el nodo A y cada uno de los demás nodos (RAB, RAC,RAD, RAE, RAF, y RAG).**
 
 ![image](https://user-images.githubusercontent.com/105617383/176793630-e2431629-f244-4e5e-9aa6-c13b4793b862.png)
 
@@ -199,7 +200,7 @@ Re (AB)=100V
 
 **SECCIÓN 7–3 Divisores de voltaje con cargas resistivas**
 
-26. La salida de una batería de 12 V se divide para obtener dos voltajes de salida. Se utilizan tres resistores de 3.3 kÆ para proporcionar dos tomas. Determine los voltajes de salida. Si se conecta una carga de 10 kÆ a la más alta de las salidas, ¿cuál será su valor con carga?
+**26. La salida de una batería de 12 V se divide para obtener dos voltajes de salida. Se utilizan tres resistores de 3.3 kÆ para proporcionar dos tomas. Determine los voltajes de salida. Si se conecta una carga de 10 kÆ a la más alta de las salidas, ¿cuál será su valor con carga?**
 
 VA= (6.6) / (9.9) * 12 = 8V
 
@@ -211,7 +212,7 @@ RAB = (6.6) (10) / (6.6) +(10) = 3.98 K Ω
 
 VA = 3.98/7.28 * 12 = 6.56V
 
-28. En la figura 7-74, determine el voltaje de salida sin carga entre las terminales de salida. Con una carga de 100 kÆ conectada de A a B, ¿cuál es el voltaje de salida?
+**28. En la figura 7-74, determine el voltaje de salida sin carga entre las terminales de salida. Con una carga de 100 kÆ conectada de A a B, ¿cuál es el voltaje de salida?**
 
 ![image](https://user-images.githubusercontent.com/105617383/176794077-e70d8848-f1b8-4a48-ba8d-567067dc9aa7.png)
 
@@ -225,7 +226,7 @@ RT = R1 + (R2 + R3) RL / R2+R3+RL = 10K Ω + 8.3 * 100 / 108.3 = 17.7 K Ω
 
 V salida = 7.7 / 17.7 * 22 = 9.57 V
 
-30. En la figura 7-74, determine la corriente continua extraída de la fuente sin carga entre las terminales de salida. Con una carga de 33 kÆ, ¿cuál es la corriente extraída?
+**30. En la figura 7-74, determine la corriente continua extraída de la fuente sin carga entre las terminales de salida. Con una carga de 33 kÆ, ¿cuál es la corriente extraída?**
 
 ![image](https://user-images.githubusercontent.com/105617383/176794077-e70d8848-f1b8-4a48-ba8d-567067dc9aa7.png)
 
@@ -237,7 +238,7 @@ RT = 10 + 8.3 * 33 / 8.3 + 33 = 16.6 K Ω
 
 I= 22 /16.6 = 1.33 mA 
 
-32. El divisor de voltaje de la figura 7-75 tiene una carga controlada por interruptor. Determine el voltaje en cada toma (V1, V2 y V3) para cada posición del interruptor.
+**32. El divisor de voltaje de la figura 7-75 tiene una carga controlada por interruptor. Determine el voltaje en cada toma (V1, V2 y V3) para cada posición del interruptor.**
 
 ![image](https://user-images.githubusercontent.com/105617383/176794214-bf35bb08-ca95-40f7-9d3d-e5045b73ad4f.png)
 
@@ -277,11 +278,11 @@ V2= (10 + 8.72) / 38.7 * 81 = 58.0 V
 
 V3= (8.72 / 38.7) * 81 = 27.0V
 
-34. Diseñe un divisor de voltaje que produzca una salida de 6 V sin carga y un mínimo de 5.5 V entre los extremos de una carga de 1.0 kÆ. El voltaje de fuente es de 24 V y la corriente extraída sin carga no debe exceder de 100 mA.
+**34. Diseñe un divisor de voltaje que produzca una salida de 6 V sin carga y un mínimo de 5.5 V entre los extremos de una carga de 1.0 kÆ. El voltaje de fuente es de 24 V y la corriente extraída sin carga no debe exceder de 100 mA.**
 
 **SECCIÓN 7–4 Efecto de carga de un voltímetro**
 
-36. Determine la resistencia interna de un voltímetro de 20,000 Æ/V en cada uno de los siguientes ajustes de intervalo.
+**36. Determine la resistencia interna de un voltímetro de 20,000 Æ/V en cada uno de los siguientes ajustes de intervalo.**
 
 (a) 0.5 V   →    (b) 1 V   →    (c) 5 V   →   (d) 50 V   →   (e) 100 V   →   (f) 1000 V
 
@@ -311,7 +312,7 @@ El voltaje medido se reduce en un porcentaje minimo debido a la tolerancia de la
 
 **SECCIÓN 7–5 Redes en escalera**
 
-40. Determine la resistencia total y el voltaje en los nodos A, B y C de la red en escalera mostrada en la figura 7-78.
+**40. Determine la resistencia total y el voltaje en los nodos A, B y C de la red en escalera mostrada en la figura 7-78.**
 
 ![image](https://user-images.githubusercontent.com/105617383/176795211-fd651511-0fd0-492a-a90d-d567eeb71e6c.png)
 
@@ -388,13 +389,13 @@ Ra = 23 kΩ
 
 Vsalida = (R8 / Ra + R8) Vs = (24 / 47) 10 = 5.10 V
 
-SECCIÓN 7–6 El puente Wheatstone
+**SECCIÓN 7–6 El puente Wheatstone**
 
-46. Se conecta un resistor de valor desconocido a un circuito puente Wheatstone. Los parámetros del puente en equilibrio se establecen como sigue: RV = 18 kÆ y R2/R4 = 0.02. ¿Cuál es RX?
+**46. Se conecta un resistor de valor desconocido a un circuito puente Wheatstone. Los parámetros del puente en equilibrio se establecen como sigue: RV = 18 kÆ y R2/R4 = 0.02. ¿Cuál es RX?**
 
 ![image](https://user-images.githubusercontent.com/105617383/176824399-410154e7-3d5d-4f55-b2b0-8e4262c3f359.png)
 
-48. Determine el voltaje de salida para el puente desequilibrado mostrado en la figura 7-83 a una temperatura de 60ºC. La característica de resistencia según la temperatura del termistor se muestra en la figura 7-60.
+**48. Determine el voltaje de salida para el puente desequilibrado mostrado en la figura 7-83 a una temperatura de 60ºC. La característica de resistencia según la temperatura del termistor se muestra en la figura 7-60.**
 
 ![image](https://user-images.githubusercontent.com/105617383/176809220-6030ba92-3cda-4b19-9b72-e2c51aa6dd9e.png)
 
@@ -425,6 +426,14 @@ VAG - VCG = 12.95 - 5.60 = 7.35V
 **52. Vea los medidores ilustrados en la figura 7-87 y determine si hay una falla en el circuito. Si la hay, identifíquela.**
 
 ![image](https://user-images.githubusercontent.com/105617383/176795691-096771e3-161d-4ea1-bdd1-a7273da617d8.png)
+
+Se comprueba:
+
+VxT = Vs(Rs/RT) = 150 V(6 kΩ/16 kΩ) = 56.25 V
+
+Vx1 = 150 V(12 kΩ/22 kΩ) = 81.8 V
+
+Vx2 = 150 V(2.2 kΩ/7.8 kΩ) = 42.3 V
 
 **54. Si en la figura 7-89 R2 se abre, ¿qué voltajes se leerán en los puntos A, B y C?**
 
