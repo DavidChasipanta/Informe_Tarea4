@@ -94,14 +94,16 @@ CIRCUITO A
 
 ![image](https://user-images.githubusercontent.com/105617383/176822965-e430a59c-5d3e-4845-8af9-d4a89a36618b.png)
 
-
 CIRCUITO B
 
-B 12
+![image](https://user-images.githubusercontent.com/105617383/176823117-ef6777ae-0148-4759-a3c7-14ae9d996a12.png)
 
 CIRCUITO C
 
-C1 12 C2 12
+![image](https://user-images.githubusercontent.com/105617383/176823186-0b500862-1407-45f2-936c-f81159151ddc.png)
+
+![image](https://user-images.githubusercontent.com/105617383/176823253-a4c73beb-ac00-4c11-8a26-aad3caa18c36.png)
+
 
 **14. Determine la resistencia entre A y B en la figura 7-67 sin la fuente.**
 
@@ -113,9 +115,39 @@ C1 12 C2 12
 
 ![image](https://user-images.githubusercontent.com/105617383/176793266-9d8ba76c-ae80-452b-9e91-8aff468ac746.png)
 
-Respuesta:
+NODO 1
 
-16
+V1-50/(100+560) + V1/56 =0
+
+56(V1-50) +660(V1) =0
+
+56V1 -2800 + 660V1=0
+
+716V1=2800
+
+V1= 3.91 m V
+
+NODO 2
+
+50 + V1 /660 +V2/R4=0
+
+50+3.91/660 +V2/R4 =0
+
+V2/1 M Ohm = 0.08168 m V
+
+V2= 81.6 K V
+
+NODO 3
+
+V1-V2+V3/1 M OHM + V3/100 k Ohm = 0
+
+(3.91 m V +81.6 K V + v3 ) 1 M ohm + v3/100 k Ohm = 0
+
+1(3.91 m V +81.6 K V + v3 )+ 10 v3 =0
+
+11v3 = 81.60000931
+
+V3= 7.41 V
 
 **18. Determine la resistencia del circuito mostrado en la figura 7-67 como se ve desde la fuente de voltaje.**
 
@@ -127,10 +159,23 @@ Las resistencias comprendidas entre A y B, suman un total de 10.3 kΩ. Mientras 
 
 ![image](https://user-images.githubusercontent.com/105617383/176793403-5fee651c-0eec-4e41-b8f2-422c6535ee43.png)
 
+Re (AB)
 
-RESOLVIENDO:
+R4=100 * 560/1340
 
-20 1 20 2
+R4= 41.8v
+
+R8= 100 * 100/1340
+
+R8=7.5 v
+
+R7= 100 * 680/1340
+
+R7=50.7 V
+
+Re (AB)= 41.8v+7.5 v+50.7 V
+
+Re (AB)=100V
 
 22. En la figura 7-71, determine la resistencia entre el nodo A y cada uno de los demás nodos (RAB, RAC,RAD, RAE, RAF, y RAG).
 
@@ -147,6 +192,10 @@ RESOLVIENDO:
 **24.Determine el valor de cada resistor mostrado en la figura 7-73.**
 
 ![image](https://user-images.githubusercontent.com/105617383/176793659-ab7b0a67-c616-4ebf-b119-430fb840cd6c.png)
+
+
+![image](https://user-images.githubusercontent.com/105617383/176823791-a880a0e9-8793-4139-86f2-a0dcf9cd3dfc.png)
+
 
 **SECCIÓN 7–3 Divisores de voltaje con cargas resistivas**
 
@@ -252,15 +301,65 @@ V3= (8.72 / 38.7) * 81 = 27.0V
 
 ![image](https://user-images.githubusercontent.com/105617383/176794828-18e115c4-1803-4425-8cee-a9e9c7611eb6.png)
 
+**a)¿Qué intervalo se deberá utilizar? **
+
+Las puntas del multimetro deben ir colocadas en cada pata de la resistencia, en serie, de modo que de esta manera el voltaje será medido para esa resistencia.
+
+**b) ¿En cuánto se reduce el voltaje medido por el medidor con respecto al voltaje real? **
+
+El voltaje medido se reduce en un porcentaje minimo debido a la tolerancia de la resistencia y tambien puede darse por un defecto en la fuente de voltaje utilizada.
+
 **SECCIÓN 7–5 Redes en escalera**
 
 40. Determine la resistencia total y el voltaje en los nodos A, B y C de la red en escalera mostrada en la figura 7-78.
 
 ![image](https://user-images.githubusercontent.com/105617383/176795211-fd651511-0fd0-492a-a90d-d567eeb71e6c.png)
 
+Rb=R4(R5+R6) /(R4+(R5+R6)) =(2,2kΩ * 2KΩ) /4,2kΩ=1.05kΩ
+
+Ra= R2(R3+Rb) /(R2+(R3+Rb)) =(2,2kΩ * 2,05kΩ) /4,25kΩ=1.06kΩ
+
+RT=R1+Ra=5,6kΩ+1.06kΩ=6.66 kΩ
+
+IT=Vs/RT=18V/6,66 kΩ=2,7mA
+
+I2=Rb/(R2+Rb) IT=1.05kΩ/(2.2kΩ+1.05kΩ) * 2,7mA =0,87 mA
+
+I3=2,7mA - 0,87 mA =1,83 mA
+
+I4=Ra/(R4+Ra) I3=1.06kΩ/(2.2kΩ+1.06kΩ) * 2,7mA =0,88 Ma
+
+I5=I6=1.83Ma-0,88ma=0,95Ma
+
+Nodo A
+
+VA=I2R2=0,87 Ma2,2kΩ=1,914V
+
+Nodo B
+
+VB= I4R4=0,88 Ma2,2kΩ=1,94V
+
+Nodo C
+
+VC= I6R6=0,95Ma1KΩ=0,95V
+
 42. En la figura 7-79, ¿cuál es el voltaje entre los extremos de cada resistor con 10 V entre A y B?
 
 ![image](https://user-images.githubusercontent.com/105617383/176795263-dac5c82d-323c-4c93-b822-96323fc6e499.png)
+
+Rb=R4(R5+R6+R7) /(R4+(R5+R6+R7)) =(820Ω*880Ω) /1700Ω=424,47Ω
+
+Ra= R2(R3+Rb+R8) /(R2+(R3+Rb+R8)) = (820Ω *864.47Ω) /1684.47Ω=420.82Ω
+
+RT=R1+Ra+R9=620.82 Ω
+
+Vx=(Rx/RT) Vs= (100/620.82 Ω)10V=1.61 V
+
+Vx=(Rx/RT) Vs= (220/620.82 Ω)10V=3.55 V
+
+Vx=(Rx/RT) Vs= (680/620.82 Ω)10V=10.95 V
+
+Vx=(Rx/RT) Vs= (820/620.82 Ω)10V=13.21 V
 
 **44. Determine VSALIDA para la red R/2R en escalera mostrada en la figura 7-81 para las siguientes condiciones:**
 
@@ -292,6 +391,8 @@ Vsalida = (R8 / Ra + R8) Vs = (24 / 47) 10 = 5.10 V
 SECCIÓN 7–6 El puente Wheatstone
 
 46. Se conecta un resistor de valor desconocido a un circuito puente Wheatstone. Los parámetros del puente en equilibrio se establecen como sigue: RV = 18 kÆ y R2/R4 = 0.02. ¿Cuál es RX?
+
+![image](https://user-images.githubusercontent.com/105617383/176824399-410154e7-3d5d-4f55-b2b0-8e4262c3f359.png)
 
 48. Determine el voltaje de salida para el puente desequilibrado mostrado en la figura 7-83 a una temperatura de 60ºC. La característica de resistencia según la temperatura del termistor se muestra en la figura 7-60.
 
@@ -329,6 +430,7 @@ VAG - VCG = 12.95 - 5.60 = 7.35V
 
 ![image](https://user-images.githubusercontent.com/105617383/176795738-f3348e0d-96fd-4eff-aec3-cca3a0d556d5.png)
 
+-Si la resistencia R2 se abre, el circuito quedaría abierto, haciendo que no circule el voltaje hasta el final del circuito, por lo tanto el voltaje que pasa por el punto A es de 15V.
 
 **CAPITULO 8**
 
