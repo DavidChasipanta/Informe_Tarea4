@@ -150,17 +150,81 @@ RESOLVIENDO:
 
 26. La salida de una batería de 12 V se divide para obtener dos voltajes de salida. Se utilizan tres resistores de 3.3 kÆ para proporcionar dos tomas. Determine los voltajes de salida. Si se conecta una carga de 10 kÆ a la más alta de las salidas, ¿cuál será su valor con carga?
 
+VA= (6.6) / (9.9) * 12 = 8V
+
+VB= (3.3) / (9.9) * 12 = 4
+
+Con los 10 K Ω
+
+RAB = (6.6) (10) / (6.6) +(10) = 3.98 K Ω
+
+VA = 3.98/7.28 * 12 = 6.56V
+
 28. En la figura 7-74, determine el voltaje de salida sin carga entre las terminales de salida. Con una carga de 100 kÆ conectada de A a B, ¿cuál es el voltaje de salida?
 
 ![image](https://user-images.githubusercontent.com/105617383/176794077-e70d8848-f1b8-4a48-ba8d-567067dc9aa7.png)
+
+RT= 10 + 5.6 + 2.7 = 18.3 K Ω
+
+V salida = (R2 + R3) /(R1 + R2 + R3) * Vs = 8.3 / 18.3 * 22 = 9.98
+
+Con 100K Ω
+
+RT = R1 + (R2 + R3) RL / R2+R3+RL = 10K Ω + 8.3 * 100 / 108.3 = 17.7 K Ω
+
+V salida = 7.7 / 17.7 * 22 = 9.57 V
 
 30. En la figura 7-74, determine la corriente continua extraída de la fuente sin carga entre las terminales de salida. Con una carga de 33 kÆ, ¿cuál es la corriente extraída?
 
 ![image](https://user-images.githubusercontent.com/105617383/176794077-e70d8848-f1b8-4a48-ba8d-567067dc9aa7.png)
 
+RT = 10 + 5.6 + 2.7 = 18.3
+
+I = 22 / 18.3 = 1.2 mA 
+
+RT = 10 + 8.3 * 33 / 8.3 + 33 = 16.6 K Ω
+
+I= 22 /16.6 = 1.33 mA 
+
 32. El divisor de voltaje de la figura 7-75 tiene una carga controlada por interruptor. Determine el voltaje en cada toma (V1, V2 y V3) para cada posición del interruptor.
 
 ![image](https://user-images.githubusercontent.com/105617383/176794214-bf35bb08-ca95-40f7-9d3d-e5045b73ad4f.png)
+
+Posición 1
+
+RT = 10+30 
+
+68= 10 + 20.82 = 30.8 K Ω
+
+V1= (20.8 / 30.8) * 120 = 81.0V
+
+V2= (20 / 30) * 81 = 54.0V
+
+V3=(10 / 30) * 81 = 27.0V
+
+Posición 2
+
+RT= 20 + 20
+
+68= 20 + 15.5 = 35.5 K Ω
+
+V1= (10 + 15.5) / 35.5 * 120 = 86.2V
+
+V2= (15.5 / 35.5) * 81 = 52.4V
+
+V3= (10 / 20) * 52.4 = 26.2V
+
+Posición 3
+
+RT= 30 + 10
+
+68= 30 + 8.72 = 38.7
+
+V1= (20 + 8.72) / 38.7 * 120 = 89.0 V
+
+V2= (10 + 8.72) / 38.7 * 81 = 58.0 V
+
+V3= (8.72 / 38.7) * 81 = 27.0V
 
 34. Diseñe un divisor de voltaje que produzca una salida de 6 V sin carga y un mínimo de 5.5 V entre los extremos de una carga de 1.0 kÆ. El voltaje de fuente es de 24 V y la corriente extraída sin carga no debe exceder de 100 mA.
 
@@ -170,7 +234,19 @@ RESOLVIENDO:
 
 (a) 0.5 V   →    (b) 1 V   →    (c) 5 V   →   (d) 50 V   →   (e) 100 V   →   (f) 1000 V
 
-38. Repita el problema 37 si se utiliza el voltímetro para medir voltaje entre los extremos de R4 en el circuito de la figura 7-62(b).
+* a) 0.5V : Se divide la resistencia sobre el voltaje RI= 20K/0.5V , dando como resultado una resistencia interna de: RI=40KΩ
+
+* b) 1V : Se divide la resistencia sobre el voltaje RI= 20K/1V , dando como resultado una resistencia interna de: RI=20KΩ
+
+* c) 5V : Se divide la resistencia sobre el voltaje RI= 20K/5V , dando como resultado una resistencia interna de: RI=4KΩ
+
+* d) 50V : Se divide la resistencia sobre el voltaje RI= 20K/50V , dando como resultado una resistencia interna de: RI=400Ω
+
+* e) 100V :Se divide la resistencia sobre el voltaje RI= 20K/100V , dando como resultado una resistencia interna de: RI=200Ω
+
+* f) 1000V : Se divide la resistencia sobre el voltaje RI= 20K/1000V , dando como resultado una resistencia interna de: RI=20Ω
+
+**38. Repita el problema 37 si se utiliza el voltímetro para medir voltaje entre los extremos de R4 en el circuito de la figura 7-62(b).**
 
 ![image](https://user-images.githubusercontent.com/105617383/176794828-18e115c4-1803-4425-8cee-a9e9c7611eb6.png)
 
